@@ -1,0 +1,1 @@
+export { DriverDetailsScreen } from "./driverDetailsScreen";
